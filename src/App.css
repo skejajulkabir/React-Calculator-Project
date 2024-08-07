@@ -1,0 +1,15 @@
+body{
+  top: 0;
+  left: 0;
+  margin: 0;
+  padding: 0;
+  background-color: hsl(222, 26%, 31%);
+  font-family: 'League Spartan', sans-serif;
+}
+footer{
+  margin-top: 5em;
+  text-align: center;
+  font-size: 1.2em;
+  /* color: rgb(144, 168, 189); */
+  color: darkgray;
+}
